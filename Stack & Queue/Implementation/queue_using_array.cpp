@@ -1,3 +1,24 @@
+/*
+Topic: Queue using Array
+
+Description:
+Implementation of Queue using Array with the following operations:
+- Push
+- Pop
+- Peek
+- Display
+- isEmpty
+- isFull
+
+Time Complexity:
+Push      : O(1)
+Pop       : O(1)
+Peek      : O(1)
+Display   : O(n)
+
+Space Complexity:
+O(n)
+*/
 #include <bits/stdc++.h>
 using namespace std;
 

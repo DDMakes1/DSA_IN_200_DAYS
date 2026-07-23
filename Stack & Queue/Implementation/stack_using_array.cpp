@@ -1,3 +1,25 @@
+/*
+Topic: Stack using Array
+
+Description:
+Implementation of Stack using Array with the following operations:
+- Push
+- Pop
+- Peek
+- isEmpty
+- isFull
+
+Time Complexity:
+Push      : O(1)
+Pop       : O(1)
+Peek      : O(1)
+isEmpty   : O(1)
+isFull    : O(1)
+
+Space Complexity:
+O(n)
+*/
+
 #include<bits/stdc++.h>
 using namespace std;
 int top = -1;
